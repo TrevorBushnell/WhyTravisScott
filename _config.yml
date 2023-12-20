@@ -1,0 +1,6 @@
+# In _config.yml
+title: Why Travis Scott
+author: Trevor Bushnell
+logo: logo.png
+execute:
+  execute_notebooks: 'off'
